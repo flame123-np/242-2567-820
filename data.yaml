@@ -1,0 +1,13 @@
+train: D:/flameai/dataset/train/images
+val: D:/flameai/dataset/valid/images
+test: D:/flameai/dataset/test/images
+
+nc: 4
+names: ['Butter', 'Margarine', 'Peanut Butter', 'Shortening']
+
+roboflow:
+  workspace: nuttaphat-yuenyong-h0ifo
+  project: butter-yoycg
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nuttaphat-yuenyong-h0ifo/butter-yoycg/dataset/1
